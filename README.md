@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**DimaOliynyk/DimaOliynyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about building web apps & productivity tools.  
+🌱 Currently learning **React, Node.js, and Tailwind CSS**.  
+🚀 2025 Goals: Contribute to open-source & launch my own full-stack app.  
+⚡ Fun fact: I love solving problems with clean, simple code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Frontend:** React, Next.js, HTML, CSS, Tailwind, Bootstrap  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB, PostgreSQL, Firebase  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 🌍 Connect with Me
+- Instagram: [instagram](https://www.instagram.com/playstateqq/)  
+- Telegram: [telegram](https://www.instagram.com/playstateqq/)  
+- Portfolio: [portfolio](https://dimaoliinyk.com/)
+---
