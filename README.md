@@ -65,7 +65,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://dimaoliinyk.com/"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:d.oliynyk@outlook.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/playstateqq/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://dimaoliinyk.com/"><img src="https://img.shields.io/badge/-dimaoliinyk.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:d.oliynyk@outlook.com"><img src="https://img.shields.io/badge/-Dmytro-D14836?style=flat&logo=Outlook&logoColor=white"/></a>
+<a href="https://www.instagram.com/playstateqq/"><img src="https://img.shields.io/badge/-playstateqq-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
