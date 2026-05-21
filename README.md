@@ -32,7 +32,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-
 ### 🧰 &nbsp;Version Controll & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -46,18 +45,9 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/DimaOliynyk">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DimaOliynyk&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://dimaoliinyk.com/"><img src="https://img.shields.io/badge/-dimaoliinyk.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:d.oliynyk@outlook.com"><img src="https://img.shields.io/badge/-Dmytro-D14836?style=flat&logo=Outlook&logoColor=white"/></a>
 <a href="https://www.instagram.com/playstateqq/"><img src="https://img.shields.io/badge/-playstateqq-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
